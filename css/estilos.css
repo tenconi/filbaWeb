@@ -148,7 +148,7 @@ border-bottom: 4px solid #A91F66;
 }
 ul>li>a{
 	cursor: pointer;
-}
+}/*
 nav ul li:hover>.submenu{
 	display:flex;
 	transition: 0.45s;
@@ -156,6 +156,7 @@ nav ul li:hover>.submenu{
 nav ul li:active>.submenu{
 	border-bottom: 4px solid #A91F66;
 }
+*/
 
 /*
 #home{
